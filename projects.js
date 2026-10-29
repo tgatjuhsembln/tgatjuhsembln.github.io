@@ -146,6 +146,17 @@ window.PORTFOLIO = {
       "tool": "After Effects",
       "objectVideo": "media/clock-24h-object.webm",
       "objectPoster": "media/clock-24h-object.png"
+    },
+    {
+      "id": "recycle",
+      "title": "Daur Ulang",
+      "category": "Ikon",
+      "video": "media/recycle.mp4",
+      "poster": "media/recycle.jpg",
+      "duration": 2.77,
+      "tool": "After Effects",
+      "objectVideo": "media/recycle-object.webm",
+      "objectPoster": "media/recycle-object.png"
     }
   ]
 };
