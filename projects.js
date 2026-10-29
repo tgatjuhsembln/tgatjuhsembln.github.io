@@ -69,6 +69,83 @@ window.PORTFOLIO = {
       "tool": "After Effects",
       "objectVideo": "media/trophy-object.webm",
       "objectPoster": "media/trophy-object.png"
+    },
+    {
+      "id": "piggy-bank",
+      "title": "Celengan Babi",
+      "category": "Ikon",
+      "video": "media/piggy-bank.mp4",
+      "poster": "media/piggy-bank.jpg",
+      "duration": 10.01,
+      "tool": "After Effects",
+      "objectVideo": "media/piggy-bank-object.webm",
+      "objectPoster": "media/piggy-bank-object.png"
+    },
+    {
+      "id": "rotation-360",
+      "title": "Rotasi 360°",
+      "category": "Ikon",
+      "video": "media/rotation-360.mp4",
+      "poster": "media/rotation-360.jpg",
+      "duration": 5.92,
+      "tool": "After Effects",
+      "objectVideo": "media/rotation-360-object.webm",
+      "objectPoster": "media/rotation-360-object.png"
+    },
+    {
+      "id": "cube",
+      "title": "Kubus",
+      "category": "Ikon",
+      "video": "media/cube.mp4",
+      "poster": "media/cube.jpg",
+      "duration": 11.0,
+      "tool": "After Effects",
+      "objectVideo": "media/cube-object.webm",
+      "objectPoster": "media/cube-object.png"
+    },
+    {
+      "id": "laurel",
+      "title": "Laurel",
+      "category": "Ikon",
+      "video": "media/laurel.mp4",
+      "poster": "media/laurel.jpg",
+      "duration": 9.98,
+      "tool": "After Effects",
+      "objectVideo": "media/laurel-object.webm",
+      "objectPoster": "media/laurel-object.png"
+    },
+    {
+      "id": "hundred-people",
+      "title": "100 Orang",
+      "category": "Ikon",
+      "video": "media/hundred-people.mp4",
+      "poster": "media/hundred-people.jpg",
+      "duration": 14.97,
+      "tool": "After Effects",
+      "objectVideo": "media/hundred-people-object.webm",
+      "objectPoster": "media/hundred-people-object.png"
+    },
+    {
+      "id": "empty-battery",
+      "title": "Baterai Habis",
+      "category": "Ikon",
+      "video": "media/empty-battery.mp4",
+      "poster": "media/empty-battery.jpg",
+      "duration": 10.52,
+      "tool": "After Effects",
+      "objectVideo": "media/empty-battery-object.webm",
+      "objectPoster": "media/empty-battery-object.png"
+    },
+    {
+      "id": "clock-24h",
+      "title": "Jam 24 Jam",
+      "category": "Ikon",
+      "video": "media/clock-24h.mp4",
+      "poster": "media/clock-24h.jpg",
+      "duration": 8.13,
+      "tool": "After Effects",
+      "objectVideo": "media/clock-24h-object.webm",
+      "objectPoster": "media/clock-24h-object.png"
     }
   ]
 };
