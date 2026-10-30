@@ -157,6 +157,17 @@ window.PORTFOLIO = {
       "tool": "After Effects",
       "objectVideo": "media/recycle-object.webm",
       "objectPoster": "media/recycle-object.png"
+    },
+    {
+      "id": "rib",
+      "title": "Pita Merah",
+      "category": "Ikon",
+      "video": "media/rib.mp4",
+      "poster": "media/rib.jpg",
+      "duration": 6.0,
+      "tool": "After Effects",
+      "objectVideo": "media/rib-object.webm",
+      "objectPoster": "media/rib-object.png"
     }
   ]
 };
